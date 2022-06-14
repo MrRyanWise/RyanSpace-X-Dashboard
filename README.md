@@ -63,7 +63,7 @@ The following manual tests passed:
 |5|All text is readable and appropriate size|PASS|
 |6|All external links work and open in new tabs (target="_blank")|PASS|
 |7|Add Launch to Calendar button fires with correct parameters|PASS|
-|8|Page and graphs do not take excessive time to load and render|PASS|
+|8|Page and graphs do not take excessive time to load and render|PASS| 
 
 
 The following tests failed:
