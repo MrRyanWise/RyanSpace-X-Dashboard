@@ -1,5 +1,7 @@
 # SpaceX Dashboard
 
+<image src="src/Assets/Space X.gif"/> 
+
 [1]: https://0cgzob.csb.app/
 [2]: <image src="src/Assets/Space X.gif"/> 
 [![SpaceX Dashboard][2]][1]
