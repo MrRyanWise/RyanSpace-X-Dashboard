@@ -1,7 +1,7 @@
 # SpaceX Dashboard
 
 [1]: https://0cgzob.csb.app/
-[2]: https://github.com/WillN-Git/SpaceX-Dashboard/blob/main/MDImages/spaceX-dashboard-shorts.gif?raw=true
+[2]: src/Assets/SpaceX.gif?raw=true
 [![SpaceX Dashboard][2]][1]
 
 ## Project Purpose
